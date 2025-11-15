@@ -4,7 +4,8 @@
   "description": "A react component library",
   "main": "index.js",
   "scripts": {
-    "build": "tsup"
+    "build": "tsup",
+    "prepare": "npm run build"
   },
   "keywords": [],
   "author": "",
