@@ -1,0 +1,23 @@
+{
+  "name": "bluestar",
+  "version": "1.0.0",
+  "description": "A react component library",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.2"
+  }
+}
