@@ -42,7 +42,7 @@ export default function Flexbox(
   height,
   style,
 }: Props
-): React.ReactNode {
+): React.ReactElement {
   const styles = useMemo(() => {
     return {
       flexBox: {
